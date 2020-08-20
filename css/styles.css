@@ -1,0 +1,72 @@
+/* Tag */
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  color: #545454;
+  border-width: 6px;
+  border-style: dotted none none none;
+  max-width: 100px;
+}
+
+
+
+/* Class */
+
+
+.top {
+  background-color: #e4f9ff;
+  height: 541px;
+  padding: 20px;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+  padding: 20px;
+}
+
+.bottom-container {
+  background-color: #e4f9ff;
+
+}
+
+.cloud-left {
+  position: absolute;
+  top: 320px;
+  left: 500px;
+  height: 80px;
+  width: 80px;
+}
+
+.cloud-right {
+  position: absolute;
+  right: 500px;
+  top: 80px;
+  height: 80px;
+  width: 80px;
+}
+
+.img2 {
+  height: 214px;
+  width: 214px;
+  margin-top: 20px;
+}
+
+.mountain {
+  position: absolute;
+  top: 235px;
+  right: 570px;
+}
+
+/* ID */
+
+#myname {
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+}
